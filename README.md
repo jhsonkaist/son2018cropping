@@ -14,8 +14,9 @@ Cropping-Resilient 3D Triangular Mesh Watermarking by Steganalitic Resynchroniza
     * Hetero
 * Visualization
 * Mex
-* External Libs
-    * toolbox_graph
+* Core Functions
+    * Mesh processing
+    * Data structures
     * (TBA)
 * Scripts
 * (DATA - not listed) 
